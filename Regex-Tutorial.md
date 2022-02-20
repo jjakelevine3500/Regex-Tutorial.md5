@@ -52,4 +52,4 @@ A greedy match tries to match an element as many times as possible. Whereas, a l
 ## Author
 
 Hi I'm Eric Enriquez, I'm a full-stack developer student looking to succeed and dominate the web.  
-GitHub: [Eric-JG](https://github.com/Eric-JG)
+GitHub: [Jake-Levine](https://github.com/jjakelevine3500)
